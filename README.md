@@ -1,6 +1,5 @@
 <h3 align="center">Software Quality Assurance - Specialist</h3>
 
-- 🔭 I’m currently working on **Python**
 
 - 📫 How to reach me **mecittilim@gmail.com**
 
