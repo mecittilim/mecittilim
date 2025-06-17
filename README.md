@@ -47,7 +47,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:800/0*0xJWqZl_8t00UE-y.png" alt="appium" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="40"/>
   </a>
 </p>
 
