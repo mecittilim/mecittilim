@@ -41,7 +41,7 @@
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
   </a>
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mukulkhanna/logos/main/jmeter.svg" alt="jmeter" width="50" height="40"/>
+    <img src="https://www.edureka.co/blog/content/ver.1554792280/uploads/2019/04/Apache_JMeter.png" alt="jmeter" width="90" height="40"/>
   </a>
   <a href="https://appium.io/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:800/0*0xJWqZl_8t00UE-y.png" alt="appium" width="70" height="40"/>
